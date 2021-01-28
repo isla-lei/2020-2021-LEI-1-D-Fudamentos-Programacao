@@ -1,3 +1,3 @@
-# 2020-2021-LEI 1º ano Dia Fundamento de Programação
+# 2020-2021-LEI 1º ano - Fundamento de Programação
 
 
