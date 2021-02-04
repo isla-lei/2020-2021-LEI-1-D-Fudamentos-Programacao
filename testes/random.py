@@ -1,8 +1,8 @@
-# Importar a biblioteca random para geração de número aleatório 
+# Importar a biblioteca random para geração de número aleatório
 
 import random
 
-# gerar número aleatório entre 1 e 49 
+# gerar número aleatório entre 1 e 49
 for i in range(5):
     numero_aleatorio = random.randint(1, 49)
     print(numero_aleatorio)
@@ -17,15 +17,16 @@ elif numero_aleatorio == 2:
     letra = "B"
 elif numero_aleatorio == 3:
     letra = "C"
-else :
+else:
     letra = "D"
 
-#print(letra)
+# print(letra)
 
 for i in range(5):
-    letras  = ["A", "B", "C", "D", "E"]
+    letras = ["A", "B", "C", "D", "E"]
     indice = random.randint(0, len(letras)-1)
     print(letras[indice])
+
 
 
 
