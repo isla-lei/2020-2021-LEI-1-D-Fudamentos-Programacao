@@ -22,8 +22,8 @@ else:
 
 # print(letra)
 
+letras = ["A", "B", "C", "D", "E"]
 for i in range(5):
-    letras = ["A", "B", "C", "D", "E"]
     indice = random.randint(0, len(letras)-1)
     print(letras[indice])
 
